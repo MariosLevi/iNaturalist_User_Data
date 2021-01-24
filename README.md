@@ -21,6 +21,7 @@ The final .csv output will look like this (I added some of the formatting later)
 
 ## Random
 The reason I did this code was because I wanted to see if there is a correlation between the population of a country and if a username is taken or not. At first I thought I proved my hypothesis that there is a correlation, because this was the list output, sorted by oldest to newest: 
+
 ![](SortedList.PNG)
 
 However, on closer inspection, I realized that all the first few countries were just common names of people:
